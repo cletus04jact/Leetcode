@@ -1,0 +1,8 @@
+Object orriented Programming
+    Class -> Group of object
+    Object ->Instance 
+    Method
+    Inheritance 
+        Single
+        Multi level
+        Heirarchy
